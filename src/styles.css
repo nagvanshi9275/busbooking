@@ -1,0 +1,132 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.pic{
+
+height: 30vh;
+
+width: 35vw;
+
+margin-top: 10px;
+
+
+}
+
+.foto{
+
+display: grid;
+
+grid-template-columns: repeat(2, 1fr);
+justify-content: center;
+align-items: center;
+column-gap: -382px;
+
+}
+
+.foto1{
+
+display: flex;
+
+align-items: center;
+justify-content: center;
+
+flex-direction: column;
+
+}
+
+.home{
+
+text-decoration: none;
+font-size: 8vw;
+color: red;
+
+}
+
+.about{
+
+text-decoration: none;
+font-size: 8vw;
+
+color: red;
+
+
+}
+
+
+.rft{
+
+display: flex;
+justify-content: space-between;
+
+}
+
+.my{
+
+height: 70vw;
+width: 90%;
+margin-top: 40px;
+
+}
+
+.ash1{
+
+display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+
+}
+
+.name1{
+
+margin: 0px;
+
+}
+
+h5{
+margin-top: -12px;
+
+
+
+}
+
+
+.type{
+
+width: 22vw;
+color: white;
+
+}
+
+.japan{
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+
+}
+
+.baralink{
+
+text-decoration: none;
+color: black;
+
+
+}
+
+.halogen{
+
+height: 80vh;
+width: 100%;
+
+}
+
+.meetup{
+color: white;
+height: 10vh;
+width: 20vw;
+
+}
+
